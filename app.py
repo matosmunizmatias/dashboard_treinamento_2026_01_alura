@@ -9,7 +9,7 @@ import io
 
 
 # pegar dataframe
-df = pd.read_csv("https://raw.github.com/guilhermeonrails/data-jobs/refs/heads/main/salaries.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/matosmunizmatias/dashboard_treinamento_2026_01_alura/refs/heads/main/salaries.csv")
 
 # rodar função
 # dados 5 primeiras linhas
